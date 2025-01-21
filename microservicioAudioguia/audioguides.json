@@ -1,0 +1,16 @@
+[
+  {
+    "_id": "6782b08660a6b72111a85f6f",
+    "title": "Santa Iglesia Catedral de Sevilla",
+    "url_audioguia": "https://res.cloudinary.com/dp7cqbl3w/video/upload/v1736615309/catedral_nyqvv3.mp3",
+    "id_checkpoint": 1,
+    "__v": 0
+  },
+  {
+    "_id": "6782bcf23ab89aba6cf75f41",
+    "title": "Metropol Parasol Setas de Sevilla",
+    "url_audioguia": "https://res.cloudinary.com/dp7cqbl3w/video/upload/v1736621112/setas_v7gny5.mp3",
+    "id_checkpoint": 1,
+    "__v": 0
+  }
+]
