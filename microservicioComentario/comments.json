@@ -1,0 +1,18 @@
+{
+  "comments": [
+    {
+      "id_comment": 1,
+      "description": "Me ha encantado la ruta, la recomiendo 100%, los lugares eran preciosos y las audioguías eran claras y se ajustaban perfectamente al tiempo de ruta",
+      "userId": 1,
+      "routeId": 4,
+      "createdDate": "2025-01-20"
+    },
+    {
+      "id_comment": 2,
+      "description": "La experiencia fue maravillosa.",
+      "userId": 2,
+      "routeId": 4,
+      "createdDate": "2025-01-18"
+    }
+  ]
+}
