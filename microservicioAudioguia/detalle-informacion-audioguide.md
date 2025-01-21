@@ -109,7 +109,7 @@ Elimina una audioguia existente.
    - `__v`: Es el campo de versión en MongoDB
    - `id_checkpoint`: Se asigna al checkpoint asociado a la audioguía.
 
-2. **Estructura Base del Comentario**:
+2. **Estructura Base de Audioguia**:
    Cada audioguia tiene la siguiente estructura:
 
    ```json
