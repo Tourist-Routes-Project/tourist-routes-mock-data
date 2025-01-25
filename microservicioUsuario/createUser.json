@@ -1,0 +1,7 @@
+{
+  "name": "Alice Smith",
+  "email": "alice.smith@example.com",
+  "username": "alice_smith",
+  "password": "password123",
+  "role": "admin"
+}
